@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "table_py", "table_py\table_py.pyproj", "{425B640D-4A4E-4A47-B21F-9E82ABD537EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{425B640D-4A4E-4A47-B21F-9E82ABD537EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{425B640D-4A4E-4A47-B21F-9E82ABD537EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {76865BC1-23F1-4D76-BC47-B5A01D834111}
+	EndGlobalSection
+EndGlobal
