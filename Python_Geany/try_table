@@ -1,0 +1,4 @@
+
+name = ['²Ü²Ù','Àî°×','ÄÃÆÆÂØ','Ã«Ôó¶«']
+print(name.remove(3))
+print(name)
