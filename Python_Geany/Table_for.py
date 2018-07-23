@@ -20,6 +20,6 @@ animal = ['cat','dog','tiger','leopard']
 for an in animal:
 	print("A "+ an.title() +" would make g great pet")
 print("animals would make a great pet!")
-print("Hello world£¡£¡£¡£¡£¡£¡£¡£¡£¡£¡£¡£¡£¡£¡£¡£¡£¡£¡£¡£¡£¡£¡£¡£¡£¡£¡£¡£¡£¡£¡£¡£¡")
+print("My NAME IS LIHUAN£¡£¡£¡£¡£¡£¡£¡£¡£¡£¡£¡£¡£¡£¡£¡£¡£¡£¡£¡£¡£¡£¡£¡£¡£¡£¡£¡£¡£¡£¡£¡£¡")
 
 
