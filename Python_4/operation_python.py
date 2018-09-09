@@ -61,3 +61,5 @@ for ten in range(1,10):
 analysis = [ten**3 for ten in range(1,11)]
 print(analysis)
 
+
+
